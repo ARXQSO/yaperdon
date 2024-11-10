@@ -1,0 +1,45 @@
+.color{color:plum}
+.colo2{color:purple}
+.yes{
+    display: inline-block;
+    background-color: greenyellow;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 25px;
+}
+.nop{ display: inline-block;
+    background-color:red;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 25px;}
+    
+.colorS1{color:palevioletred}
+.colorn1{color:black;}
+.colortn2{color:coral}
+.NOSEGURA{display: inline-block;
+    background-color:greenyellow;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 25px;}
+    
+.SISEGURA{display: inline-block;
+        background-color:red;
+        color: black;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight: 700;
+        border-radius: 5px;
+        margin: 25px;
+        padding: 25px;}
